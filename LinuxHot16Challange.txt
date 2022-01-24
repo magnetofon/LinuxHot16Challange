@@ -1,0 +1,17 @@
+cd 
+find 
+which 
+mkdir 
+rmdir 
+touch 
+cp 
+nano 
+rm 
+mv 
+ls 
+pwd 
+man 
+sudo 
+cat 
+mc 
+exit
